@@ -1,43 +1,4 @@
-# NotesAppMVVM
 
-![Kotlin](https://img.shields.io/badge/Kotlin-1.4.32-blue)
-![MVVM](https://img.shields.io/badge/Architecture-MVVM-green)
-![SQLite](https://img.shields.io/badge/Database-SQLite-orange)
-
-## Description
-
-**NotesAppMVVM** is a mobile application for creating, editing, and deleting notes. The application is implemented using the MVVM (Model-View-ViewModel) architectural pattern and the SQLite database through the Room library. The application is written in the Kotlin programming language.
-
-## Screenshots
-
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-
-## Features
-
-- Create new notes
-- Delete notes
-- View a list of all notes
-
-## Tech Stack
-
-- **Programming Language**: Kotlin
-- **Architecture**: MVVM
-- **Database**: SQLite using Room
-- **Libraries**:
-  - Android Xml (LiveData, ViewModel, Room)
-  - Kotlin Coroutines
-
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/idar1o/NotesAppMVVM.git
-
-Sure! Here is the README file for your project NotesAppMVVM in English:
-
-markdown
-Копировать код
 # NotesAppMVVM
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.4.32-blue)
